@@ -1,0 +1,29 @@
+Hi!!, This is Harsh Agria.
+
+And here is my resume:
+
+HARSH AGRIA
+Jawahar Colony , N.I.T Faridabad , Haryana , India
+B.tech 3rd year student at N.I.T ,Kurukshetra || Intern . Software Developer || Software Engineer
+
+Phone- +91 8800160322
+ E-mail-  harsh11agria77@gmail.com
+LinkedIn  - https://tinyurl.com/4b4uzfvv
+Dedicated to improving skills through hands-on learning and development work. Well-organized and collaborative team player with strong communication and analytical abilities. Hardworking and passionate student with strong organizational skills.Ready to work with team and achieve higher technical development skills.
+
+EDUCATION-
+B.Tech- Information Technology - National Institute of Technology, Kurukshetra ||3rd year Student    (2021- Current)
+XII CBSE Boards - Delhi Public School, Ballabgarh , Haryana || Percentage- 98%                             (2020-2021)
+X CBSE Boards - B.N Public School , Faridabad,Haryana || Percentage -92.1%				       (2018-2019)
+
+Skills-
+Proficent- C++,C,Html,Css,Python
+Intermidiate-Java,SQL,Google Dialogflow,Java Script
+Beginner- Android Development,ML,MongoDB
+
+Achievements & Projects-
+Second ranker in ChatBot event of TechSpardha’23.
+Build a ChatBot using dialogflow on India Tourism (https://t.me/Travel150Bot)
+Build a Youtube clone using Html and CSS.
+Build an Image Resizer , Text to Speech converter ,PDF Merger , Weather App , Face Recognition System (under progress) using python - 
+(github.com/Harsh-Agria)
